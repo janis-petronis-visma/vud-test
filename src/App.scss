@@ -1,3 +1,7 @@
+//$prefix-path: '~@vismaux/vud-icons/dist/img/vismaicons' !default;
+@import "~@vismaux/vud/dist/css/vud.min.css";
+@import "~@vismaux/vud-icons/src/scss/vud-icons";
+
 .App {
   text-align: center;
 }
